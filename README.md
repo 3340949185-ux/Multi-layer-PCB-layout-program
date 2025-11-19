@@ -2,7 +2,7 @@
 
 This is my personal works which about Multi-layer PCB layout.There are no restricts you should obey if you want to change them.
 
-All pcb file put in the branches which named by their core MCU,to Download is here. 
+All pcb file put in the branches which named by their core MCU,to download is here. 
 
 这是我的一些多层板PCB Layout。如果你想对它们进行修改，没有任何限制。
 
